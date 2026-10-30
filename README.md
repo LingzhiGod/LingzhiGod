@@ -10,6 +10,18 @@
   <a href="mailto:trdyun@outlook.com"><b>联系我</b></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LingzhiGod&amp;color=8bd5b0&amp;label=Profile+Views&amp;style=flat" alt="Profile views — 主页访问计数" />
+  &nbsp;
+  <a href="https://github.com/LingzhiGod?tab=followers">
+    <img src="https://img.shields.io/github/followers/LingzhiGod?style=flat&amp;label=Followers&amp;logo=github&amp;logoColor=8bd5b0&amp;labelColor=18262f&amp;color=8bd5b0" alt="GitHub followers — 关注者数量" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/LingzhiGod?tab=repositories">
+    <img src="https://img.shields.io/github/stars/LingzhiGod?style=flat&amp;label=Total+Stars&amp;logo=github&amp;logoColor=d8c59d&amp;labelColor=18262f&amp;color=d8c59d" alt="GitHub total stars — 公开仓库获得的 Stars 总数" />
+  </a>
+</p>
+
 <br />
 
 ### 01 / Halo, 我是 trdyun 👋
